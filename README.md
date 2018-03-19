@@ -1,6 +1,6 @@
 Robocode - Template
 ====
-This is copy of Norbert Schneider's Robocode Template at: https://github.com/bertschneider/RobocodeTemplate.
+This is a copy of Norbert Schneider's Robocode Template at: https://github.com/bertschneider/RobocodeTemplate.
 It has been slightly modified to fit our needs.
 
 Development preparations or how to build a new robot
@@ -15,7 +15,7 @@ Development preparations or how to build a new robot
 Documentation and other links
 ----
 
-* [Robocode Website](ttp://robocode.sourceforge.net/)
+* [Robocode Website](http://robocode.sourceforge.net/)
 * [Robocode API](http://robocode.sourceforge.net/docs/robocode/)
 * [Robocode Getting Started](http://robowiki.net/wiki/Robocode_Basics)
 * [Robocode Wiki](http://robowiki.net/wiki/Main_Page)
